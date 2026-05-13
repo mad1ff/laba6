@@ -80,14 +80,14 @@ trap.perimeter() = 18
 
 ## Скриншоты
 
-Снимок экрана 2026-05-13 052527.png
+<img width="663" height="753" alt="Снимок экрана 2026-05-13 052527" src="https://github.com/user-attachments/assets/a52df093-7f71-4528-957e-3b42eb81ed79" />
+
 
 ---
-
 ## Используемые материалы
 
-1. Tkinter — GUI для Python
-2. Классы в Python
+1. [Tkinter — GUI для Python](https://docs.python.org/3/library/tkinter.html)
+2. [Классы в Python](https://docs.python.org/3/tutorial/classes.html)
 
 ---
 
